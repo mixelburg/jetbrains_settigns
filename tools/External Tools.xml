@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="del image powershell" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\WINDOWS\system32\WindowsPowerShell\v1.0\powershell.exe" />
+      <option name="PARAMETERS" value="docker rmi node-build" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
