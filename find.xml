@@ -1,7 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'P2P_sentry'" />
-    <option name="defaultScopeName" value="Project 'P2P_sentry'" />
-    <option name="SEARCH_SCOPE" value="Project 'P2P_sentry'" />
+    <option name="customScope" value="Project 'haifa-1201-pycoin'" />
+    <option name="defaultScopeName" value="Project 'haifa-1201-pycoin'" />
+    <option name="SEARCH_SCOPE" value="Project 'haifa-1201-pycoin'" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.pyw</mask>
+    <mask>*.py</mask>
   </component>
 </application>
