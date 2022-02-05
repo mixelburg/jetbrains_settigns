@@ -3,8 +3,6 @@
     <option name="sessionFiles">
       <list>
         <option value="file://$USER_HOME$/Desktop/procmon/Procmon.ps1" />
-        <option value="file://$USER_HOME$/Desktop/procmon/Logfile1.XML" />
-        <option value="file://$USER_HOME$/Desktop/procmon/Logfile2.XML" />
       </list>
     </option>
     <option name="frameInfo">
