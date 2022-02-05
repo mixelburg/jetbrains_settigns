@@ -10,6 +10,14 @@
           <option name="url" value="https://github.com/nikhilroxtomar/Dog-Breed-Classifier-using-TF2.0.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/amandeepmittal/blog-examples/tree/master/react/react-router-v6-example" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/amandeepmittal/blog-examples.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\mixel\WebstormProjects" />
