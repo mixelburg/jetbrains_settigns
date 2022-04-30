@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="here_volumes_go" type="AUTO_DETECTED" />
       <mapping pattern="safe" type="AUTO_DETECTED" />
       <mapping pattern=".Dockerignore" type="PLAIN_TEXT" />
       <mapping ext="meta" type="PLAIN_TEXT" />
