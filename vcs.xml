@@ -38,6 +38,10 @@
           <option name="url" value="https://mixelburg@bitbucket.org/track-160/tactical-viewer-web-app.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://mixelburg@bitbucket.org/track-160/db-migration-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\mixel\WebstormProjects" />
